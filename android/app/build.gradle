@@ -102,7 +102,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.warungpintar.test"
+        applicationId "com.pleky.testdot"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

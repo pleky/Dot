@@ -1,4 +1,4 @@
-package com.warungpintar.test;
+package com.pleky.testdot;
 
 import com.facebook.react.ReactActivity;
 
@@ -15,7 +15,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "WPTest";
+        return "TestDot";
     }
 
     @Override

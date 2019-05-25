@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
-import { Text, View } from 'react-native'
+import { Text, View, ImageBackground } from 'react-native'
+import { IMAGE } from '../../../asset';
 
 export default class Register extends Component {
   render() {
     return (
-      <View>
-        <Text> reg </Text>
-      </View>
+      <ImageBackground style={{ flex: 1 }} source={IMAGE.background}>
+
+      </ImageBackground>
     )
   }
 }

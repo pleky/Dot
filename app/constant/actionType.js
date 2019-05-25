@@ -1,7 +1,8 @@
 const actionType = {
     login : 'LOGIN',
     register: 'REGISTER',
-    home: 'HOME'
+    home: 'HOME',
+    friend: 'FRIEND'
 }
 
 export default actionType
