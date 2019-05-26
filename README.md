@@ -1,3 +1,2 @@
-# test-dot
-# Dot
-# test-warung-pintar
+# Test DOT nomer 1
+
